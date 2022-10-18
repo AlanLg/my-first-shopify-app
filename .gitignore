@@ -8,6 +8,10 @@ mongo/
 # macOS
 .DS_Store
 
+# webstorm
+.idea/
+
+
 # Package-Lock
 package-lock.json
 
